@@ -51,10 +51,19 @@ h2 {
 
 }
 
+/*.container .jumbotron {
+  min-height: 300px;
+  min-width: 594px
+}*/
 
+/*.container .jumbotron img {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 25px;
+}*/
 
 .jumbotron {
-  margin-bottom: 0px;
+  margin-bottom: 15px;
   background-image: url(../img/rain.jpg);
   background-position: 0% 25%;
   background-size: cover;
