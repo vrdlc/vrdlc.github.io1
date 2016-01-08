@@ -6,20 +6,34 @@ body {
   background-color: #AAC291;
 }
 
+img {
 
+}
 
 h1 {
   text-align: center;
 }
 
-.container{
-  ;
+h2 {
+  text-align: center;
 }
+
+
 .jumbotron {
-  background-color: #AAC291;
+  margin-bottom: 0px;
+  background-image: url(../img/rain.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #A2A69F;
+/*GET NEW IMAGE AND FIX TEXT COLOR*/
+
+
 }
 
-
+.columntext {
+  text-align: center;
+}
 
 
 
