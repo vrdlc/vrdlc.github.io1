@@ -1,3 +1,22 @@
+body {
+  background-color: #D2D6CE;
+}
+
+.navbar {
+  background-color: #AAC291;
+}
+
+.active {
+  color: #3F5728;
+}
+
 h1 {
-  color: red;
+  text-align: center;
+}
+
+.container{
+  ;
+}
+.jumbotron {
+  background-color: #AAC291;
 }
