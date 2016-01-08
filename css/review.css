@@ -93,6 +93,10 @@ img.main {
   background-color: orange;
 }
 
+.links {
+  list-style-type: none;
+}
+
 
 
 /*.columntext ol li{
