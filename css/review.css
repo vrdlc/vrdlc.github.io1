@@ -26,9 +26,32 @@ h2 {
   list-style-type: none;
 }
 
-.menutext {
-  
+
+
+.btn {
+  color: #6B6E68;
+  background-color: #D2D6CE;
+  border color: black;
 }
+
+
+
+.btn-primary.outline:hover {
+  color: #6B6E68;
+  background-color: #B3BFA6;
+  border-style: solid;
+  border-color: #6B6E68;
+}
+
+.btn-primary.outline {
+  color: #6B6E68;
+  background-color: #B3BFA6;
+  border-style: solid;
+  border-color: #6B6E68;
+
+}
+
+
 
 .jumbotron {
   margin-bottom: 0px;
@@ -37,6 +60,8 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   color: #A2A69F;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
 /*GET NEW IMAGE AND FIX TEXT COLOR*/
 
 
