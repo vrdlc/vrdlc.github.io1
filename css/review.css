@@ -6,6 +6,10 @@ body {
   background-color: #AAC291;
 }
 
+.dropdown-menu li {
+  margin: 3px;
+}
+
 img {
 
 }
@@ -34,6 +38,10 @@ h2 {
 .columntext {
   text-align: center;
 }
+
+/*.columntext ol li ul li {
+  text-align: left;
+}*/
 
 
 .carousel .container p{
