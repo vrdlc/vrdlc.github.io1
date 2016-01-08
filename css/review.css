@@ -6,9 +6,7 @@ body {
   background-color: #AAC291;
 }
 
-.active {
-  color: #3F5728;
-}
+
 
 h1 {
   text-align: center;
@@ -20,3 +18,20 @@ h1 {
 .jumbotron {
   background-color: #AAC291;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* TRY TO COLOR ACTIVE TAB IN MENUS
+.active {
+  color: #3F5728;
+}*/
